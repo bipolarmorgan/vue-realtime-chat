@@ -12,6 +12,7 @@ import MessageList from './MessageList'
   export default {
     name: "RenderMessages",
     components: {
+      // eslint-disable-next-line vue/no-unused-components
       Banner,
       MessageList
     },
